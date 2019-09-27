@@ -1,2 +1,0 @@
-# festivetreecodesandbox
-Created with CodeSandbox
